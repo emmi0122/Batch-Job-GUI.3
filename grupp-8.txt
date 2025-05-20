@@ -11,8 +11,8 @@ Webbsida: https://batch-job-gui.netlify.app/
 
 Projekt 2:
 GitHub repo: https://github.com/emmi0122/Batch-Job-GUI-2.git
-Webbsida: 
+Webbsida: batch-job-gui-2.netlify.app
 
 Projekt 3:
 GitHub repo: https://github.com/emmi0122/Batch-Job-GUI-3.git
-Webbsida: 
+Webbsida: batch-job-gui-3.netlify.app
